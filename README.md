@@ -166,6 +166,12 @@ app.post('/products', (req,res) => {
   ...
 },)
 ```
+
+## Headers
+To add custom headers,
+```js
+app.addHeader('key','value')
+```
     
 ## Support
 
