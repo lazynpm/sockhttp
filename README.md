@@ -1,7 +1,7 @@
 
 # SockHTTP
 
-This package enables you to create simple secure REST API
+This package enables you to create simple secure REST API with ease 
 
 
 
@@ -16,7 +16,6 @@ This package enables you to create simple secure REST API
 - Use any other package freely
 
 ## Upcoming Features
-- Socket connections
 - Gaurds
 - Rate limiting
 - CSRF Protection

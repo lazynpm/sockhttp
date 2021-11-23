@@ -17,7 +17,6 @@
   },
   "keywords": [
     "http",
-    "socket",
     "api",
     "express"
   ]
