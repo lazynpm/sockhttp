@@ -1,7 +1,7 @@
 
 # SockHTTP
 
-This package enables you to create simple REST API without use of any other library.
+This package enables you to create simple secure REST API
 
 
 
