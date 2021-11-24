@@ -12,15 +12,12 @@ This package enables you to create simple secure REST API with ease
 - Add multiple middlewares
 - Use common middlewares for app endpoints
 - Set CORS Policy
-- Inbuilt Authentication and Authorization
-- Use any other package freely
 
 ## Upcoming Features
 - Gaurds
 - Rate limiting
 - CSRF Protection
-- Inbuild Message bus
-
+- Inbuilt Message bus
 
 # Documentation
 
