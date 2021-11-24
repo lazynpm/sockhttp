@@ -36,13 +36,13 @@ Install sockhttp with npm
 Import httpsock
 
 ```js
-const host = require('sockhttp');
+const Host = require('./src/index');
 ```
 
 Initialize application
 
 ```js
-const app = host();
+const app = new Host();
 app.listen(3000, () => {
   console.log('Server running on 3000');
 });
